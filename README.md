@@ -10,4 +10,4 @@
 - WiFi
 - DHT
 
-You can use firmware from [NodeMCU build service](https://nodemcu-build.com/).
+You can use firmware from [NodeMCU build service](https://nodemcu-build.com/) or [build it yourself](https://nodemcu.readthedocs.io/en/latest/build/).
